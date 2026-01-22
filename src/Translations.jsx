@@ -14,11 +14,11 @@ export default function Translations() {
                 <tbody>
                     <tr>
                         <td>Feature</td>
-                        <td>Funkcionalitāte / Fīča</td>
+                        <td>Funkcionālā iezīme</td>
                     </tr>
                     <tr>
                         <td>Background</td>
-                        <td>Konteksts / Situācija</td>
+                        <td>Konteksts</td>
                     </tr>
                     <tr>
                         <td>Rule</td>
@@ -26,35 +26,47 @@ export default function Translations() {
                     </tr>
                     <tr>
                         <td>Scenario</td>
-                        <td>Piemērs / Scenārijs</td>
+                        <td>Scenārijs</td>
                     </tr>
                     <tr>
                         <td>Scenario Outline</td>
                         <td>Scenārijs pēc parauga</td>
                     </tr>
                     <tr>
-                        <td>Example</td>
-                        <td>Piemērs</td>
+                        <td>Examples</td>
+                        <td>Piemēri</td>
+                    </tr>
+                    <tr>
+                        <td>User story</td>
+                        <td>Lietotājstāsts</td>
+                    </tr>
+                    <tr>
+                        <td>#</td>
+                        <td>Komentārs</td>
                     </tr>
                     <tr>
                         <td>Given</td>
-                        <td>* / Kad</td>
+                        <td>Kad</td>
                     </tr>
                     <tr>
                         <td>When</td>
-                        <td>* / Ja</td>
+                        <td>Ja</td>
                     </tr>
                     <tr>
                         <td>Then</td>
-                        <td>* / Tad</td>
+                        <td>Tad</td>
                     </tr>
                     <tr>
                         <td>And</td>
-                        <td>* / Un</td>
+                        <td>Un</td>
                     </tr>
                     <tr>
                         <td>But</td>
-                        <td>* / Bet</td>
+                        <td>Bet</td>
+                    </tr>
+                    <tr>
+                        <td>Or</td>
+                        <td>Vai</td>
                     </tr>
                 </tbody>
             </table>
