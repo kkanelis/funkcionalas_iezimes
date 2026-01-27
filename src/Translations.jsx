@@ -3,7 +3,7 @@ import './Translations.css'
 export default function Translations() {
     return (
         <>
-        <h1>Gherkin termini</h1>
+            <h1>Gherkin termini</h1>
             <table>
                 <thead>
                     <tr>
